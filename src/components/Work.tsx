@@ -13,7 +13,7 @@ const projects = [
     tools: "Premiere Pro, After Effects, Sound Design, Color Grading, Transitions",
     link: "https://res.cloudinary.com/grb4tj0c/video/upload/f_mp4,q_auto/v1787134042/portfolio.mov",
     video: "https://res.cloudinary.com/grb4tj0c/video/upload/f_mp4,q_auto/v1787134042/portfolio.mov",
-    image: "/images/work_reels.png",
+    image: "./images/work_reels.png",
   },
   {
     title: "Kinetic Typography Motion Graphics",
@@ -21,7 +21,7 @@ const projects = [
     tools: "After Effects, Kinetic Text, Logo Animation, Sound FX",
     link: "https://res.cloudinary.com/grb4tj0c/video/upload/f_auto,q_auto/v1787133977/KINETIC_TYPOGRAPHY.mp4",
     video: "https://res.cloudinary.com/grb4tj0c/video/upload/f_auto,q_auto/v1787133977/KINETIC_TYPOGRAPHY.mp4",
-    image: "/images/work_motion.png",
+    image: "./images/work_motion.png",
   },
   {
     title: "Fiverr Gig & Client Showcase Video",
@@ -29,7 +29,7 @@ const projects = [
     tools: "Premiere Pro, CapCut, Raw Footage Editing, Audio Mixing",
     link: "https://res.cloudinary.com/grb4tj0c/video/upload/f_auto,q_auto/v1787133971/GIG.mp4",
     video: "https://res.cloudinary.com/grb4tj0c/video/upload/f_auto,q_auto/v1787133971/GIG.mp4",
-    image: "/images/work_farm.png",
+    image: "./images/work_farm.png",
   },
   {
     title: "Revised Typography & Visual Design",
@@ -37,7 +37,7 @@ const projects = [
     tools: "After Effects, Photoshop, Illustrator, Custom Typography",
     link: "https://res.cloudinary.com/grb4tj0c/video/upload/f_auto,q_auto/v1787134082/REVISED.mp4",
     video: "https://res.cloudinary.com/grb4tj0c/video/upload/f_auto,q_auto/v1787134082/REVISED.mp4",
-    image: "/images/work_event.png",
+    image: "./images/work_event.png",
   },
   {
     title: "Social Media Creatives & Brand Identity",
@@ -45,7 +45,7 @@ const projects = [
     tools: "Photoshop, Illustrator, Canva, Thumbnails, Post Creatives",
     link: "https://res.cloudinary.com/grb4tj0c/video/upload/f_mp4,q_auto/v1787134042/portfolio.mov",
     video: "https://res.cloudinary.com/grb4tj0c/video/upload/f_mp4,q_auto/v1787134042/portfolio.mov",
-    image: "/images/work_branding.png",
+    image: "./images/work_branding.png",
   },
 ];
 

@@ -13,12 +13,12 @@ import {
 
 const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
-  "/images/premiere.png",
-  "/images/aftereffects.png",
-  "/images/photoshop.png",
-  "/images/illustrator.png",
-  "/images/capcut.png",
-  "/images/canva.png",
+  "./images/premiere.png",
+  "./images/aftereffects.png",
+  "./images/photoshop.png",
+  "./images/illustrator.png",
+  "./images/capcut.png",
+  "./images/canva.png",
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 
@@ -197,7 +197,7 @@ const TechStack = () => {
           ))}
         </Physics>
         <Environment
-          files="/models/char_enviorment.hdr"
+          files="./models/char_enviorment.hdr"
           environmentIntensity={0.5}
           environmentRotation={[0, 4, 2]}
         />
